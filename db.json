@@ -1,0 +1,68 @@
+[
+  {
+    "username": "rinoarias",
+    "password": "123456",
+    "names": "Rino Arias",
+    "img": "https://i0.wp.com/www.pngarea.com/pngm/117/7529705_blood-pool-png-caras-de-hombre-animada-transparent.png",
+    "opciones": [
+      {
+        "opt": "Ver Publicaciones"
+      },
+      {
+        "opt": "Actividad reciente"
+      },
+      {
+        "opt": "Notificaciones"
+      },
+      {
+        "opt": "Administrar Publicaciones"
+      },
+      {
+        "opt": "Estadística de visitas"
+      }
+    ],
+    "rol": "admin"
+  },
+  {
+    "username": "pedroinfante",
+    "password": "123456",
+    "names": "Pedro Infante",
+    "img": "https://image.freepik.com/foto-gratis/concepto-emociones-personas-foto-cabeza-hombre-atractivo-feliz-riendo-sonriendo-expresa-regocijo-fondo-blanco_1258-34795.jpg",
+    "opciones": [
+      {
+        "opt": "Ver Publicaciones"
+      },
+      {
+        "opt": "Actividad reciente"
+      },
+      {
+        "opt": "Notificaciones"
+      },
+      {
+        "opt": "Administrar Publicaciones"
+      },
+      {
+        "opt": "Estadística de visitas"
+      }
+    ],
+    "rol": "admin"
+  },
+  {
+    "username": "anonimo99",
+    "password": "123456",
+    "names": "Mark Zuckerberg",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/facebook-ceo-mark-zuckerberg-speaks-about-the-new-facebook-news-photo-1623399471.jpg?resize=640:*",
+    "opciones": [
+      {
+        "opt": "Ver Publicaciones"
+      },
+      {
+        "opt": "Actividad reciente"
+      },
+      {
+        "opt": "Notificaciones"
+      }
+    ],
+    "rol": "user"
+  }
+]
